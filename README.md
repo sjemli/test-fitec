@@ -1,5 +1,6 @@
 # test-fitec
 laurent.pitou@gmail.com
-https://docs.google.com/document/d/1hv48EEZvxj9lhrEFfYeTpF8q3a7bwi-BydDe0WKOfxo/edit
+https://docs.google.com/document/d/1wk7s__cKYdU3wIVAfPQAsRVMN_Fv9klqe0h09y_JkCA/edit?usp=sharing
+
 alex.guerassimov@gmail.com
 hans.doo@gmail.com
