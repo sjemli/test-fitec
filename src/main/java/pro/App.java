@@ -13,5 +13,10 @@ public class App
         System.out.println( "Hello World!" );
         String equipe = ResourceBundle.getBundle("param").getString("equipe");
         System.out.println("equipe = " + equipe );
+        System.out.println( "Salut les amis!" );
+
+
+        String equipeNumber = ResourceBundle.getBundle("param").getString("equipe.number");
+        System.out.println("Equipe Number = " + equipeNumber);
     }
 }
